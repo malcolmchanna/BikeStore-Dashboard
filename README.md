@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-        <h1>Bike Store Sales Analysis -Dashboard</h1>
+        <h1>Bike Store Sales Analysis Report</h1>
         <p>Created by - Muzamil Channa @ Aspiring Data Analyst</p>
         <p>LinkedIn Profile: <a href="https://www.linkedin.com/in/muzamil-channa-a2216a175/">Muzamil Channa</a></p>
     <nav>
@@ -28,9 +28,8 @@ This report provides a detailed analysis of the bikestore's sales performance, l
 - Analyze patterns in revenue, orders, units sold, and product mix across different dimensions.
 
 ## Problem Statement
-We need to utilize the bikestore data to create insightful reports that can guide effective business strategies...
+We need to utilize the bikestore data to create insightful reports that can guide effective business strategies. These reports should address key performance indicators (KPIs) across various aspects, including:
 
-### Problem Statement:
 - Geography (state, city)
 - Sales channels (store, sales rep)
 - Customer segmentation (top customers)
@@ -85,11 +84,11 @@ Based on the analysis, several recommendations are proposed:
 - Utilize AOV variations to identify opportunities for product mix adjustments, upselling techniques, and potentially pricing considerations.
 - Investigate market dynamics for Cyclocross Bicycles and Children's Bicycles to determine appropriate pricing and marketing strategies.
 
-Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
+
+
+###### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
 
 Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
-
 Date: 26/04/2024
-
 Place: Pakistan, Karachi
 
