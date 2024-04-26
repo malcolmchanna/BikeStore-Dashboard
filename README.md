@@ -19,8 +19,8 @@
         </ul>
     </nav>
           <img src="Dashbaord.png" alt="Dashbaord">
-            ## Objective
-This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.
+            
+###### This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.
 
 ### Objective:
 - Gain a clear understanding of sales trends within the bikestore data.
@@ -86,9 +86,9 @@ Based on the analysis, several recommendations are proposed:
 
 
 
-###### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
+#### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
 
-Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
-Date: 26/04/2024
-Place: Pakistan, Karachi
+-Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
+-Date: 26/04/2024
+-Place: Pakistan, Karachi
 
