@@ -1,9 +1,7 @@
 
-    <header>
         <h1>Bike Store Sales Analysis -Dashboard</h1>
         <p>Created by - Muzamil Channa @ Aspiring Data Analyst</p>
         <p>LinkedIn Profile: <a href="https://www.linkedin.com/in/muzamil-channa-a2216a175/">Muzamil Channa</a></p>
-    </header>
     <nav>
         <h2>Table of Contents</h2>
         <ul>
