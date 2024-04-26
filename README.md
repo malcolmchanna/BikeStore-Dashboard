@@ -121,3 +121,40 @@
         <p>Date: 26/04/2024</p>
         <p>Place: Pakistan, Karachi</p>
     </footer>
+
+
+    /* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header, nav, main, footer {
+    margin: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
