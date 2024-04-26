@@ -1,6 +1,6 @@
 # Bike Store Sales Analysis Report
 
-Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
+## Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
 
 ## Table of Contents
 - [Objective](#objective)
@@ -8,9 +8,13 @@ Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://w
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 
+
+
 ![Dashboard](Dashbaord.png)  
 
+
 ###### This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.
+
 
 ### Objective:
 - Gain a clear understanding of sales trends within the bikestore data.
