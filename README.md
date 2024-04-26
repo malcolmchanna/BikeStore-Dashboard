@@ -9,9 +9,9 @@
 - [Recommendations](#recommendations)
 
 
-
+#
 ![Dashboard](Dashbaord.png)  
-
+#
 
 ###### This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.
 
