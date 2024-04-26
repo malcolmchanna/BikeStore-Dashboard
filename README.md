@@ -79,7 +79,7 @@ Based on the analysis, several recommendations are proposed:
 - Investigate market dynamics for Cyclocross Bicycles and Children's Bicycles to determine appropriate pricing and marketing strategies.
 
 
-
+#
 #### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
 
 -Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
