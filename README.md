@@ -18,7 +18,6 @@
             <li><a href="#recommendations">Recommendations</a></li>
         </ul>
     </nav>
-    <main>
           <img src="Dashbaord.png" alt="Dashbaord">
 
             <h2>Objective</h2>
