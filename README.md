@@ -1,4 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikestore Dashboard README</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
         <h1>Bike Store Sales Analysis -Dashboard</h1>
         <p>Created by - Muzamil Channa @ Aspiring Data Analyst</p>
         <p>LinkedIn Profile: <a href="https://www.linkedin.com/in/muzamil-channa-a2216a175/">Muzamil Channa</a></p>
