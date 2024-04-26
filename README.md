@@ -18,7 +18,6 @@
             <li><a href="#recommendations">Recommendations</a></li>
         </ul>
     </nav>
-          <img src="Dashbaord.png" alt="Dashbaord">
 
             <h2>Objective</h2>
             <p>This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.</p>
