@@ -116,45 +116,10 @@
             <p>Don't forget to give a star to this project because its motivate me and also please follow me on LinkedIn. and Please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.</p>
         </section>
     </main>
-    <footer>
         <p>Created & Presented by – Muzamil Channa @ Aspiring Data Analyst</p>
         <p>Date: 26/04/2024</p>
         <p>Place: Pakistan, Karachi</p>
-    </footer>
-
-
-    /* styles.css */
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
-
-header, nav, main, footer {
-    margin: 20px;
-}
-
-h1, h2, h3 {
-    color: #333;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    margin-bottom: 10px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #007bff;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
+        
+</body>
+</html>
 
