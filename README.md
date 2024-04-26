@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-        <h1>Bike Store Sales Analysis Report</h1>
-        <p>Created by - Muzamil Channa @ Aspiring Data Analyst</p>
-        <p>LinkedIn Profile: <a href="https://www.linkedin.com/in/muzamil-channa-a2216a175/">Muzamil Channa</a></p>
-    <nav>
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="#objective">Objective</a></li>
-            <li><a href="#problem-statement">Problem Statement</a></li>
-            <li><a href="#key-findings">Key Findings</a></li>
-            <li><a href="#recommendations">Recommendations</a></li>
-        </ul>
-    </nav>
-          <img src="Dashbaord.png" alt="Dashbaord">
-            
+# Bike Store Sales Analysis Report
+
+Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
+
+## Table of Contents
+- [Objective](#objective)
+- [Problem Statement](#problem-statement)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
+![Dashboard](Dashbaord.png)  
+
 ###### This report provides a detailed analysis of the bikestore's sales performance, leveraging insights from various data points to inform strategic decision-making.
 
 ### Objective:
