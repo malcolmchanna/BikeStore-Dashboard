@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+
     <header>
         <h1>Bike Store Sales Analysis -Dashboard</h1>
         <p>Created by - Muzamil Channa @ Aspiring Data Analyst</p>
@@ -128,5 +121,3 @@
         <p>Date: 26/04/2024</p>
         <p>Place: Pakistan, Karachi</p>
     </footer>
-</body>
-</html>
